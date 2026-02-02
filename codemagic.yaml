@@ -37,6 +37,3 @@ workflows:
       - build/app/outputs/bundle/release/*.aab
       - build/ios/ipa/*.ipa
 
-    cache:
-      cache_default_paths: true
-
